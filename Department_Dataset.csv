@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,ManagerID
+1,Engineering,101
+2,Data Science,102
+3,Management,103
+4,Human Resources,104
+5,Marketing,105
+6,Finance,106
+7,Cybersecurity,107
+8,Operations,108

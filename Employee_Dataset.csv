@@ -1,0 +1,11 @@
+﻿EmployeeID,FirstName,LastName,Email,PhoneNumber,HireDate,JobTitle,DepartmentID,Salary
+1,John,Doe,john.doe@example.com,9876543210,2022-03-15,Software Engineer,1,75000
+2,Jane,Smith,jane.smith@example.com,9876543211,2021-06-20,Data Analyst,2,68000
+3,Michael,Brown,michael.brown@example.com,9876543212,2020-09-10,Project Manager,3,95000
+4,Emily,Davis,emily.davis@example.com,9876543213,2019-12-05,HR Manager,4,80000
+5,David,Wilson,david.wilson@example.com,9876543214,2023-01-12,DevOps Engineer,1,78000
+6,Sophia,Martinez,sophia.martinez@example.com,9876543215,2018-07-25,Marketing Specialist,5,72000
+7,James,Taylor,james.taylor@example.com,9876543216,2022-10-03,Machine Learning Engineer,2,85000
+8,Olivia,Anderson,olivia.anderson@example.com,9876543217,2020-05-18,Finance Analyst,6,77000
+9,William,Moore,william.moore@example.com,9876543218,2021-11-30,Cybersecurity Specialist,7,86000
+10,Ava,Thomas,ava.thomas@example.com,9876543219,2017-02-22,Operations Manager,8,90000
